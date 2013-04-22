@@ -1,0 +1,1 @@
+In this assignment, the program involves reading a text file and then using a hash table to count the number of words in the text file.  File inputstream was used for the files input and once the file is read, the words are displayed along with how much they occur in the file.
